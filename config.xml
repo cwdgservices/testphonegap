@@ -1,12 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Woodson</name>
-    <description>
-        A blank PhoneGap app.
-    </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
-    </author>
+<widget id="org.lywam.tours.phonegap" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Woodson Art</name>
+    <description>The Woodson Art Museum’s audio tour app offers insights into artworks on view.</description>
+    <author email="museum@lywam.org" href="https://www.lywam.org">LYWAM Team</author>
     <content src="index.html" />
     <access origin="*" />
 </widget>
